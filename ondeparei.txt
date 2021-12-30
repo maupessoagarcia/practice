@@ -1,0 +1,6 @@
+Parei em: 
+
+1- pwd - git-train
+2- 4- Trabalhando em equipe. 
+
+fiz push pro github e pro repositorio local. Não fiz pull pro outrodev
